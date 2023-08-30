@@ -4,4 +4,9 @@
   - quantum information/computing theory
   - quantum neural networks
   - interdisciplinary simulations in data science
+ 
+My other profiles include:
+
+-LinkedIn: https://www.linkedin.com/in/jeffrey-morais/
+-Personal Website: https://jeffreymorais.netlify.app/
 
