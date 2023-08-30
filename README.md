@@ -6,7 +6,6 @@
   - interdisciplinary simulations in data science
  
 My other profiles include:
-
 -LinkedIn: https://www.linkedin.com/in/jeffrey-morais/
 -Personal Website: https://jeffreymorais.netlify.app/
 
