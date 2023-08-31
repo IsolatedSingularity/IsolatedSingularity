@@ -1,5 +1,5 @@
-- Conducting research on qubit networks and wormholes in quantum computing theory
-- Upcoming research will be the application of quantum neural networks to renormalization group flow in quantum gravity 
+- Conducting research on the application of quantum neural networks to renormalization group flow in quantum gravity and confined systems of entangled qubits.
+- Previous research was on qubit networks and wormholes in quantum computing theory
 - I’m interested in collaborating on:
   - quantum information/computing theory
   - quantum neural networks
