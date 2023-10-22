@@ -4,8 +4,3 @@
   - topological quantum neural networks
   - quantum information/computing theory
   - post-quantum cryptography
- 
-<! -- My other profiles include: <br> -->
--LinkedIn: https://www.linkedin.com/in/jeffrey-morais/  
--Personal Website: https://jeffreymorais.netlify.app/
-
