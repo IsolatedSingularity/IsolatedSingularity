@@ -1,5 +1,5 @@
-- Conducting research on optimizing blockchain consensus computations in post-quantum cryptography using topological quantum error correction and fault-tolerant codes
-- Simultaneously conducting research on the application of topological quantum neural networks to renormalization group flow in quantum gravity and quantum computing theory
+- Conducting research on the application of topological quantum neural networks to renormalization group flow in quantum gravity and quantum computing theory
+- Simultaneously conducting research on optimizing blockchain consensus computations in post-quantum cryptography using topological quantum error correction and fault-tolerant codes
 - I’m interested in collaborating on:
   - topological quantum neural networks
   - quantum information/computing theory
