@@ -1,5 +1,5 @@
 - Conducting research on the application of topological quantum field theory to quantum neural networks for more efficient quantum computation
-- Simultaneously conducting research on optimizing robust consensus networks in post-quantum cryptography using low-dimensional topology and game theory
+- Simultaneously conducting research on optimizing robust consensus protocols in post-quantum cryptography using low-dimensional topology and game theory
 - I’m interested in collaborating on:
   - topological quantum neural networks
   - quantum information/computing theory
