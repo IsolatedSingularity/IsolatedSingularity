@@ -4,3 +4,7 @@
   - topological quantum neural networks
   - quantum information/computing theory
   - quantum gravity
+
+My other profiles include:
+- LinkedIn: https://ca.linkedin.com/in/jeffrey-morais/
+- Personal site: https://jeffreymorais.netlify.app/
