@@ -1,6 +1,6 @@
-- Conducting research on the application of topological quantum field theory to topological quantum neural networks for more efficient quantum computation
-- Simultaneously conducting research on optimizing robust consensus protocols in post-quantum cryptography using persistent homology and topological data analysis techniques
+- Conducting research on optimizing robust consensus protocols in post-quantum cryptography using persistent homology and topological data analysis techniques
+- Simultaneously conducting research on the application of holography for quantum tasks in quantum many-body systems
 - I’m interested in collaborating on:
-  - topological quantum neural networks
-  - quantum information/computing theory
-  - quantum gravity
+  - quantum cryptography
+  - quantum error correction
+  - quantum information theory
