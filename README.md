@@ -1,6 +1,6 @@
 - Conducting research on optimizing robust consensus protocols in post-quantum cryptography using persistent homology and topological data analysis techniques
 - Simultaneously conducting research on the application of holography for quantum tasks in quantum many-body systems
 - I’m interested in collaborating on:
-  - Quantum cryptography
+  - Quantum algorithms
   - Quantum error correction
-  - Quantum information theory
+  - Quantum cryptography
