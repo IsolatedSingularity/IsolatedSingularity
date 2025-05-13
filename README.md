@@ -2,5 +2,5 @@
 - Simultaneously developing a rigorous axiomatic framework for holographic quantum error correction in many-body quantum systems with infinite-dimensional Hilbert spaces
 - I’m interested in collaborating on:
   - Quantum algorithms
+  - Optimization
   - Quantum error correction
-  - Quantum cryptography
