@@ -28,7 +28,7 @@ A tool designed for mapping non-planar molecules to quantum circuits and impleme
 * **Stack:** Python, C++, Mathematica, Qiskit, PennyLane.
 
 ---
-"Aut inveniam viam aut faciam."
+
 
 <p align="center">
   <img src="./strawberry.gif?raw=true" alt="orange" width="33" height="33" />
