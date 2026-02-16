@@ -31,6 +31,6 @@ A tool designed for mapping non-planar molecules to quantum circuits and impleme
 "Aut inveniam viam aut faciam."
 
 <p align="center">
-  <img src="orange.gif" alt="orange" width="80" />
+  <img src="peach.gif" alt="orange" width="80" />
 </p>
 
