@@ -8,13 +8,15 @@ Research at the intersection of high energy physics and deployable quantum softw
 A modular framework for simulating consensus networks. It utilizes post-quantum topologically protected algorithms to generate resilient cryptographic proofs.
 * **Focus:** Blockchain security, post-quantum cryptography, and scalable consensus protocols.
 
-#### Topological Quantum Neural Networks (Repository coming soon)
+#### [Quantum Circuit Builder](https://github.com/btq-ag/QLDPC)
+A tool designed for mapping non-planar molecules to quantum circuits and implementing variational quantum eigensolvers.
+* **Focus:** Ground state energy calculation and automated circuit optimization.
+
+#### [Topological Quantum Neural Networks](https://github.com/IsolatedSingularity/Topological-Quantum-Neural-Networks)
 Applying topological quantum field theory concepts to model and optimize information flow in quantum systems.
 * **Focus:** Improving generalization in deep learning through global and topological learning instead of black box evolution.
 
-#### Quantum Circuit Builder (Internal: Release Pending)
-A tool designed for mapping non-planar molecules to quantum circuits and implementing variational quantum eigensolvers.
-* **Focus:** Ground state energy calculation and automated circuit optimization.
+
 
 ---
 
