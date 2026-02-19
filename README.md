@@ -9,8 +9,8 @@ A modular framework for simulating consensus networks. It utilizes post-quantum 
 * **Focus:** Blockchain security, post-quantum cryptography, and scalable consensus protocols.
 
 #### [Quantum Circuit Builder](https://github.com/btq-ag/QLDPC)
-A tool designed for mapping non-planar molecules to quantum circuits and implementing variational quantum eigensolvers.
-* **Focus:** Ground state energy calculation and automated circuit optimization.
+Built an interactive toolkit for quantum low-density parity-check (qLDPC) codes, covering visualization, simulation, and circuit construction for fault-tolerant quantum error correction.
+* **Focus:** Real-time quantum LDPC simulator with belief propagation decoding and syndrome extraction
 
 #### [Topological Quantum Neural Networks](https://github.com/IsolatedSingularity/Topological-Quantum-Neural-Networks)
 Applying topological quantum field theory concepts to model and optimize information flow in quantum systems.
