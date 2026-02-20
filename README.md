@@ -4,13 +4,13 @@ Research at the intersection of high energy physics and deployable quantum softw
 
 ### Featured Industry Projects
 
+#### [Quantum LDPC Circuit Builder](https://github.com/btq-ag/QLDPC)
+Built an interactive toolkit for quantum low-density parity-check (qLDPC) codes, covering visualization, simulation, and circuit construction for fault-tolerant quantum error correction.
+* **Focus:** Real-time quantum LDPC simulator with belief propagation decoding and syndrome extraction.
+
 #### [Léonne: Modular Consensus Networks](https://github.com/btq-ag/Leonne)
 A modular framework for simulating consensus networks. It utilizes post-quantum topologically protected algorithms to generate resilient cryptographic proofs.
 * **Focus:** Blockchain security, post-quantum cryptography, and scalable consensus protocols.
-
-#### [Quantum Circuit Builder](https://github.com/btq-ag/QLDPC)
-Built an interactive toolkit for quantum low-density parity-check (qLDPC) codes, covering visualization, simulation, and circuit construction for fault-tolerant quantum error correction.
-* **Focus:** Real-time quantum LDPC simulator with belief propagation decoding and syndrome extraction
 
 #### [Topological Quantum Neural Networks](https://github.com/IsolatedSingularity/Topological-Quantum-Neural-Networks)
 Applying topological quantum field theory concepts to model and optimize information flow in quantum systems.
