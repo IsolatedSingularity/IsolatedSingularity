@@ -29,13 +29,19 @@ Pip-installable Python toolkit with three interactive GUIs for noise-resilient c
 ---
 
 ### Current Focus
-* **Quantum Cryptography:** Building secure and scalable protocols at BTQ, applying combinatorics and topological data analysis to cryptographic networks and random number generation.
-* **Many-Body Simulation:** Exact diagonalization simulations across fifteen quantum many-body models to verify the eigenstate thermalization hypothesis, mapping thermalization landscapes to inform coherence-time optimization in quantum hardware.
+* **Post-Quantum Cryptography:** Engineering secure consensus protocols and quantum random number generation systems at BTQ, with topological trust partitioning for adversarial-resilient distributed networks.
+* **Quantum Simulation:** Building exact diagonalization pipelines across fifteen many-body models, quantifying thermalization time scaling to establish coherence bounds for quantum device design.
 
-### Other Projects
+### Personal Projects
+
+#### [Quantum Chemistry Eigensolver](https://github.com/IsolatedSingularity/Quantum-Chemistry-Eigensolver)
+Variational quantum eigensolver for molecular ground state energy computation - Jordan-Wigner mapping, parameterized ansatz circuits, and classical optimization over H₂ dissociation landscapes.
 
 #### [Bloc Fantôme](https://github.com/IsolatedSingularity/Bloc-Fantome)
 Isometric 2.5D creative sandbox in Python/Pygame with 100+ block types, real-time liquid dynamics, dynamic lighting, weather systems, and three explorable dimensions.
+
+#### [Procedural World Generation](https://github.com/IsolatedSingularity/Minecraft-Generation)
+Mathematical deconstruction of voxel world generation algorithms - LCG seed analysis, multi-octave Perlin noise terrain, salt-based structure placement, and dragon pathfinding via directed acyclic graph traversal.
 
 ---
 
