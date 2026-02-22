@@ -22,10 +22,6 @@ Interactive toolkit for quantum low-density parity-check codes with real-time ci
 Quantum-blockchain protocol for verifiable random number generation via quantum key distribution, strengthening cryptographic security in distributed consensus.
 * **Focus:** Quantum cryptography, verifiable randomness, distributed consensus
 
-#### [Topological Quantum Neural Networks](https://github.com/IsolatedSingularity/Topological-Quantum-Neural-Networks)
-Pip-installable Python toolkit with three interactive GUIs for noise-resilient classification via spin-network encoding, bypassing barren plateau limitations through topological learning.
-* **Focus:** Quantum machine learning, noise-resilient classification, interactive visualization
-
 ---
 
 ### Current Focus
@@ -39,9 +35,6 @@ Variational quantum eigensolver for molecular ground state energy computation - 
 
 #### [Bloc Fantôme](https://github.com/IsolatedSingularity/Bloc-Fantome)
 Isometric 2.5D creative sandbox in Python/Pygame with 100+ block types, real-time liquid dynamics, dynamic lighting, weather systems, and three explorable dimensions.
-
-#### [Procedural World Generation](https://github.com/IsolatedSingularity/Minecraft-Generation)
-Mathematical deconstruction of voxel world generation algorithms - LCG seed analysis, multi-octave Perlin noise terrain, salt-based structure placement, and dragon pathfinding via directed acyclic graph traversal.
 
 ---
 
