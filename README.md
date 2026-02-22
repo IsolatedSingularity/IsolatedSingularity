@@ -1,36 +1,49 @@
-Research at the intersection of high energy physics and deployable quantum software. My work focuses on the practical application of topological data analysis, post-quantum cryptography, and quantum algorithms to real-world security and optimization challenges.
+Quantum software engineer building tools for post-quantum cryptography, error correction, and quantum simulation.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat&logo=qiskit&logoColor=white)
+![PennyLane](https://img.shields.io/badge/PennyLane-00CE78?style=flat)
+![Mathematica](https://img.shields.io/badge/Mathematica-DD1100?style=flat&logo=wolfram&logoColor=white)
 
 ---
 
-### Featured Industry Projects
+### Featured Projects
 
 #### [Léonne: Modular Consensus Networks](https://github.com/btq-ag/Leonne)
-A modular framework for simulating consensus networks. It utilizes post-quantum topologically protected algorithms to generate resilient cryptographic proofs.
-* **Focus:** Blockchain security, post-quantum cryptography, and scalable consensus protocols.
+Modular framework for post-quantum blockchain consensus with topologically protected cryptographic proofs, enabling resilient verification under adversarial conditions.
+* **Focus:** Post-quantum cryptography, consensus protocols, topological data analysis
 
-#### [Quantum Circuit Builder](https://github.com/btq-ag/QLDPC)
-Built an interactive toolkit for quantum low-density parity-check (qLDPC) codes, covering visualization, simulation, and circuit construction for fault-tolerant quantum error correction.
-* **Focus:** Real-time quantum LDPC simulator with belief propagation decoding and syndrome extraction
+#### [QLDPC: Quantum Error Correction Toolkit](https://github.com/btq-ag/QLDPC)
+Interactive toolkit for quantum low-density parity-check codes with real-time circuit construction, belief propagation decoding, syndrome extraction, and Qiskit integration.
+* **Focus:** Fault-tolerant quantum error correction, LDPC simulation, circuit visualization
+
+#### [QRiNG: Quantum Random Number Generation](https://github.com/btq-ag/QRiNG)
+Quantum-blockchain protocol for verifiable random number generation via quantum key distribution, strengthening cryptographic security in distributed consensus.
+* **Focus:** Quantum cryptography, verifiable randomness, distributed consensus
 
 #### [Topological Quantum Neural Networks](https://github.com/IsolatedSingularity/Topological-Quantum-Neural-Networks)
-Applying topological quantum field theory concepts to model and optimize information flow in quantum systems.
-* **Focus:** Improving generalization in deep learning through global and topological learning instead of black box evolution.
-
-
+Pip-installable Python toolkit with three interactive GUIs for noise-resilient classification via spin-network encoding, bypassing barren plateau limitations through topological learning.
+* **Focus:** Quantum machine learning, noise-resilient classification, interactive visualization
 
 ---
 
-### Current Research Focus
-* **Quantum Cryptography:** Developing innovative approaches in secure and scalable protocols at BTQ. This work leverages advanced techniques in combinatorics and topological data analysis to address challenges in cryptographic networks and random number generation.
-* **Many-Body Systems and Thermalization:** Systematic verification of the eigenstate thermalization hypothesis across integrable and non-integrable models. We investigate thermalization behavior through exact diagonalization, level spacing statistics, and scaling analysis of thermalization times with Hilbert space dimension.
+### Current Focus
+* **Quantum Cryptography:** Building secure and scalable protocols at BTQ, applying combinatorics and topological data analysis to cryptographic networks and random number generation.
+* **Many-Body Simulation:** Exact diagonalization simulations across fifteen quantum many-body models to verify the eigenstate thermalization hypothesis, mapping thermalization landscapes to inform coherence-time optimization in quantum hardware.
 
-### Professional Links
+### Other Projects
+
+#### [Bloc Fantôme](https://github.com/IsolatedSingularity/Bloc-Fantome)
+Isometric 2.5D creative sandbox in Python/Pygame with 100+ block types, real-time liquid dynamics, dynamic lighting, weather systems, and three explorable dimensions.
+
+---
+
+### Links
 * **LinkedIn:** [in/jeffrey-morais](https://www.linkedin.com/in/jeffrey-morais)
 * **Website:** [jeffreymorais.netlify.app](https://jeffreymorais.netlify.app/)
-* **Stack:** Python, C++, Mathematica, Qiskit, PennyLane.
 
 ---
-
 
 <p align="center">
   <img src="./strawberry.gif?raw=true" alt="orange" width="33" height="33" />
