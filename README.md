@@ -36,11 +36,6 @@ Variational quantum eigensolver for molecular ground state energy computation - 
 #### [Bloc Fantôme](https://github.com/IsolatedSingularity/Bloc-Fantome)
 Isometric 2.5D creative sandbox in Python/Pygame with 100+ block types, real-time liquid dynamics, dynamic lighting, weather systems, and three explorable dimensions.
 
----
-
-### Links
-* **LinkedIn:** [in/jeffrey-morais](https://www.linkedin.com/in/jeffrey-morais)
-* **Website:** [jeffreymorais.netlify.app](https://jeffreymorais.netlify.app/)
 
 ---
 
