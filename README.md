@@ -24,10 +24,6 @@ Quantum-blockchain protocol for verifiable random number generation via quantum 
 
 ---
 
-### Current Focus
-* **Post-Quantum Cryptography:** Engineering secure consensus protocols and quantum random number generation systems at BTQ, with topological trust partitioning for adversarial-resilient distributed networks.
-* **Quantum Simulation:** Building exact diagonalization pipelines across fifteen many-body models, quantifying thermalization time scaling to establish coherence bounds for quantum device design.
-
 ### Personal Projects
 
 #### [Quantum Chemistry Eigensolver](https://github.com/IsolatedSingularity/Quantum-Chemistry-Eigensolver)
@@ -36,8 +32,11 @@ Variational quantum eigensolver for molecular ground state energy computation - 
 #### [Bloc Fantôme](https://github.com/IsolatedSingularity/Bloc-Fantome)
 Isometric 2.5D creative sandbox in Python/Pygame with 100+ block types, real-time liquid dynamics, dynamic lighting, weather systems, and three explorable dimensions.
 
-
 ---
+
+### Current Focus
+* **Post-Quantum Cryptography:** Engineering secure consensus protocols and quantum random number generation systems at BTQ, with topological trust partitioning for adversarial-resilient distributed networks.
+* **Quantum Simulation:** Building exact diagonalization pipelines across fifteen many-body models, quantifying thermalization time scaling to establish coherence bounds for quantum device design.
 
 <p align="center">
   <img src="./strawberry.gif?raw=true" alt="orange" width="33" height="33" />
