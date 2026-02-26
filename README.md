@@ -1,10 +1,10 @@
 Quantum software engineer building tools for post-quantum cryptography, error correction, and quantum simulation.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat&logo=qiskit&logoColor=white)
-![PennyLane](https://img.shields.io/badge/PennyLane-00CE78?style=flat)
 ![Mathematica](https://img.shields.io/badge/Mathematica-DD1100?style=flat&logo=wolfram&logoColor=white)
+![PennyLane](https://img.shields.io/badge/PennyLane-00CE78?style=flat)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
 
