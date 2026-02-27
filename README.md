@@ -1,19 +1,13 @@
 Quantum software engineer building tools for post-quantum cryptography, error correction, and quantum simulation.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-<<<<<<< HEAD
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat&logo=qiskit&logoColor=white)
 ![PennyLane](https://img.shields.io/badge/PennyLane-00CE78?style=flat)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-=======
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat&logo=qiskit&logoColor=white)
->>>>>>> 168d6473d34a3f16372a8615782193ee8e6a0a4b
 ![Mathematica](https://img.shields.io/badge/Mathematica-DD1100?style=flat&logo=wolfram&logoColor=white)
-![PennyLane](https://img.shields.io/badge/PennyLane-00CE78?style=flat)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
 
@@ -33,13 +27,10 @@ Quantum-blockchain protocol for verifiable random number generation via quantum 
 
 ---
 
-<<<<<<< HEAD
 ### Current Focus
 * **Post-Quantum Cryptography:** Designing secure consensus protocols, verifiable randomness systems, and topological trust architectures for quantum-resilient distributed networks.
 * **Quantum Simulation:** Building exact diagonalization pipelines across many-body models, mapping thermalization dynamics to establish coherence bounds for quantum device design.
 
-=======
->>>>>>> 168d6473d34a3f16372a8615782193ee8e6a0a4b
 ### Personal Projects
 
 #### [Quantum Chemistry Eigensolver](https://github.com/IsolatedSingularity/Quantum-Chemistry-Eigensolver)
@@ -49,10 +40,6 @@ Variational quantum eigensolver for molecular ground state energy computation - 
 Isometric 2.5D creative sandbox in Python/Pygame with 100+ block types, real-time liquid dynamics, dynamic lighting, weather systems, and three explorable dimensions.
 
 ---
-
-### Current Focus
-* **Post-Quantum Cryptography:** Engineering secure consensus protocols and quantum random number generation systems at BTQ, with topological trust partitioning for adversarial-resilient distributed networks.
-* **Quantum Simulation:** Building exact diagonalization pipelines across fifteen many-body models, quantifying thermalization time scaling to establish coherence bounds for quantum device design.
 
 <p align="center">
   <img src="./strawberry.gif?raw=true" alt="orange" width="33" height="33" />
