@@ -2,12 +2,12 @@ Quantum software engineer building tools for post-quantum cryptography, error co
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat&logo=qiskit&logoColor=white)
-![PennyLane](https://img.shields.io/badge/PennyLane-00CE78?style=flat)
+![PennyLane](https://img.shields.io/badge/PennyLane-00CE78?style=flat&logo=codeblocks&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![TDA](https://img.shields.io/badge/TDA-2C2C2C?style=flat)
+![TDA](https://img.shields.io/badge/TDA-FFFFFF?style=flat&logo=wasabi&logoColor=000000)
 
 ---
 
