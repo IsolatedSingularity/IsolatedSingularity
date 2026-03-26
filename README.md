@@ -38,6 +38,7 @@ Vector-based neural indexing engine with quantum-enhanced similarity metrics for
 
 #### [Quantum Chemistry Eigensolver](https://github.com/IsolatedSingularity/Quantum-Chemistry-Eigensolver)
 Variational quantum eigensolver for molecular ground state energy computation - Jordan-Wigner mapping, parameterized ansatz circuits, and classical optimization over H₂ dissociation landscapes.
+* **Focus:** Variational quantum simulation, fermion-to-qubit mappings, molecular energy landscapes
 
 ---
 
