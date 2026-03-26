@@ -29,16 +29,16 @@ Quantum-blockchain protocol for verifiable random number generation via quantum 
 ### Scientific Computing
 
 #### [TQNN: Topological Quantum Neural Networks](https://github.com/IsolatedSingularity/Topological-Quantum-Neural-Networks)
-Pip-installable Python toolkit for topological quantum neural networks that bypass barren plateau limitations, with CI/CD pipelines, 20 automated tests, and three interactive GUIs for real-time tensor network simulation and noise-resilient classification.
-* **Focus:** Quantum machine learning, topological protection, spin-network encoding
+Pip-installable Python toolkit for topological quantum neural networks, built to simulate complex physical systems. Features strict CI/CD pipelines, 20+ automated tests, and interactive GUIs for real-time tensor network simulation and noise-resilient classification.
+* **Focus:** Tensor network simulation, physics-informed machine learning, quantum neural networks
 
-#### [Quantum-Neural-Search](https://github.com/IsolatedSingularity/Quantum-Neural-Search)
-Vector-based neural indexing engine with quantum-enhanced similarity metrics for high-dimensional search, leveraging parameterized quantum circuits to accelerate nearest-neighbor retrieval.
-* **Focus:** Neural search, quantum similarity kernels, high-dimensional indexing
+#### [Quantum Neural Search](https://github.com/IsolatedSingularity/Quantum-Neural-Search)
+Vector-based neural indexing engine built for EEG and neuroscience datasets. Implements high-dimensional similarity metrics and parameterized quantum circuits to accelerate nearest-neighbor retrieval in complex biological time-series data.
+* **Focus:** EEG signal processing, neural search, high-dimensional vector databases
 
 #### [Quantum Chemistry Eigensolver](https://github.com/IsolatedSingularity/Quantum-Chemistry-Eigensolver)
-Variational quantum eigensolver for molecular ground state energy computation - Jordan-Wigner mapping, parameterized ansatz circuits, and classical optimization over H₂ dissociation landscapes.
-* **Focus:** Variational quantum simulation, fermion-to-qubit mappings, molecular energy landscapes
+Variational quantum eigensolver for computational chemistry and molecular R&D. Computes ground state energies over H₂ dissociation landscapes using Jordan-Wigner mapping and classical optimization loops.
+* **Focus:** Computational chemistry, molecular energy landscapes, Hamiltonian simulation
 
 ---
 
