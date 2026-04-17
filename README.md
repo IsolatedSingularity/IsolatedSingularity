@@ -21,7 +21,7 @@ Modular framework for post-quantum blockchain consensus with topologically prote
 * **Focus:** Post-quantum cryptography, consensus protocols, topological data analysis
 
 #### [QRiNG: Quantum Random Number Generation](https://github.com/btq-ag/QRiNG)
-Quantum-blockchain protocol for verifiable random number generation via quantum key distribution, strengthening cryptographic security in distributed consensus.
+Quantum-blockchain protocol for verifiable random number generation via Hadamard-circuit measurements, settled on-chain by majority vote.
 * **Focus:** Quantum cryptography, verifiable randomness, distributed consensus
 
 ---
@@ -29,11 +29,11 @@ Quantum-blockchain protocol for verifiable random number generation via quantum 
 ### Scientific Computing
 
 #### [TQNN: Topological Quantum Neural Networks](https://github.com/IsolatedSingularity/Topological-Quantum-Neural-Networks)
-Pip-installable Python toolkit for topological quantum neural networks, built to simulate complex physical systems. Features strict CI/CD pipelines, 20+ automated tests, and interactive GUIs for real-time tensor network simulation and noise-resilient classification.
+Pip-installable Python toolkit for topological quantum neural networks, built for noise-resilient classification via TQFT amplitudes. Features strict CI/CD pipelines, 20+ automated tests, and interactive GUIs for real-time tensor network simulation.
 * **Focus:** Tensor network simulation, physics-informed machine learning, quantum neural networks
 
 #### [Quantum Neural Search](https://github.com/IsolatedSingularity/Quantum-Neural-Search)
-Vector-based neural indexing engine built for EEG and neuroscience datasets. Implements high-dimensional similarity metrics and parameterized quantum circuits to accelerate nearest-neighbor retrieval in complex biological time-series data.
+Grover search and variational circuits for 4-qubit EEG pattern classification on synthetic data. Implements high-dimensional similarity metrics and parameterized quantum circuits for nearest-neighbor retrieval in biological time-series data.
 * **Focus:** EEG signal processing, neural search, high-dimensional vector databases
 
 #### [Quantum Chemistry Eigensolver](https://github.com/IsolatedSingularity/Quantum-Chemistry-Eigensolver)
