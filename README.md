@@ -21,7 +21,7 @@ Numerical simulation engine for solving non-linear Hamilton-Jacobi partial diffe
 * **Focus:** Numerical methods, PDE solvers, computational physics
 
 #### [Cosmic String Signals (Signal Processing)](https://github.com/IsolatedSingularity/Cosmic-String-Signals)
-Automated data analysis pipeline leveraging wavelet decomposition and matched-filter detection[cite: 2]. Designed to extract target waveforms from simulated 21cm primordial noise[cite: 1, 2].
+Automated data analysis pipeline leveraging wavelet decomposition and matched-filter detection. Designed to extract target waveforms from simulated 21cm primordial noise.
 * **Focus:** Signal extraction, automated data pipelines, statistical analysis
 
 ---
